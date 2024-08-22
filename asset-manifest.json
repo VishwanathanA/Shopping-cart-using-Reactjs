@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VishwanathanA/dynamic-shopping-cart-using-Reactjs.git/static/css/main.ff4b0416.css",
+    "main.js": "/VishwanathanA/dynamic-shopping-cart-using-Reactjs.git/static/js/main.2dd8ee5e.js",
+    "index.html": "/VishwanathanA/dynamic-shopping-cart-using-Reactjs.git/index.html",
+    "main.ff4b0416.css.map": "/VishwanathanA/dynamic-shopping-cart-using-Reactjs.git/static/css/main.ff4b0416.css.map",
+    "main.2dd8ee5e.js.map": "/VishwanathanA/dynamic-shopping-cart-using-Reactjs.git/static/js/main.2dd8ee5e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff4b0416.css",
+    "static/js/main.2dd8ee5e.js"
+  ]
+}
